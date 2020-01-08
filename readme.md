@@ -1,4 +1,4 @@
-## Wagonex
+## Node Demo
 
 This app is used for node learing :)
 
